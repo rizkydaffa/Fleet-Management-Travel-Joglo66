@@ -1,7 +1,12 @@
 {
+  "name": "fleet-management",
+  "version": "1.0.0",
+  "main": "backend/index.js",
+  "scripts": {
+    "start": "node backend/index.js"
+  },
   "dependencies": {
     "jspdf": "^3.0.4",
     "xlsx": "^0.18.5"
-     "start": "node backend/index.js"
   }
 }
